@@ -84,12 +84,11 @@ EG_total;
 ## Instalación
 ### Descargar Repositorio
 ````
-git clone https://github.com/elizaldeingrith06/FUNDAMENTOS
+git clone https://github.com/elizaldeingrith06/PROGRAMACION
 ````
 ### Ingresar al repositorio
 ````
-cd FUNDAMENTOS
-cd ACTIVIDAD-E2
+cd PROGRAMACION
 ````
 ### Para observar codigo del programa
 ````

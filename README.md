@@ -5,7 +5,6 @@ Autor: Ingrith Gissela Elizalde Elizalde
 
 Correo electronico de contacto: ingrith.elizalde.elizalde@utelvt.edu.ec
 
-Video:
 
 ## Programas
 Compara.cpp
